@@ -6,8 +6,8 @@ Regarding whether to start with the backend or frontend, it's generally a good p
 ToDos and Project Breakdown:
 
 # Project Initialization:
-- ~~ Define project scope and requirements.~~
-- ~~ Set up version control using Git.~~
+~~- Define project scope and requirements.~~
+~~- Set up version control using Git.~~
 
 # Database Design:
 - Set up SQL database schema for users, body types, styles, and product inventories.
