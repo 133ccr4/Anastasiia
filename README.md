@@ -1,10 +1,4 @@
 # Web project
-
-
-To do : 
-- python code
-- introduction page on html
-- calculater on html
   
 Development Sequence:
 Regarding whether to start with the backend or frontend, it's generally a good practice to begin with a basic backend structure to define how data will flow within the application. However, a parallel approach can also be effective, where basic versions of both are developed in tandem. This allows for early testing of the end-to-end functionality.
